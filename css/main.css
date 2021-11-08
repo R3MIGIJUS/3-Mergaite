@@ -1,0 +1,18 @@
+body {
+    background-color: #F8F8F8;
+}
+
+header {
+    background-color: blueviolet;
+    display: inline-block;
+    width: 800px;
+    margin-left: calc(50% - 400px);
+}
+
+main {
+    background-color: rgb(26, 185, 53);
+    display: inline-block;
+    width: 800px;
+    margin-left: calc(50% - 400px);
+
+}
