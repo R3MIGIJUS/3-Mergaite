@@ -17,5 +17,5 @@ Design: Mergaite
 
 # Author
 
-* R3MIGIJUS
+* [R3MIGIJUS](https://github.com/R3MIGIJUS).
 * Contact me on *[Linkedin](https://www.linkedin.com/in/remigijus-builys-177b16225/)*.
