@@ -27,7 +27,7 @@
 **Margin** savybe padaro tarpeli aplink elementa norima kryptimi.
 
 
-Pasiskaitymui apie markdown kalbos naudojimą .md :
+Pasiskaitymui apie markdown kalbos naudojimą (.md) :
 https://www.markdownguide.org/basic-syntax/
 
 
