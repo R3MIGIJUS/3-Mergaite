@@ -30,15 +30,14 @@
 Pasiskaitymui apie markdown kalbos naudojimą (.md) :
 https://www.markdownguide.org/basic-syntax/
 
-# Pain.net Naudojimas
-- Norint iškirpti nuotrauką su kuo mažesniu likusiu fonu (Logotipui buvo naudojama) :
-  1. Magin wanda -> Tolerance ;
-  2. Ctrl + i;
-  3. Ctrl +Shift + x;
-
 
 >Viso turinio centravimui naudojama CSS funkcija **calc(100% - 800px)/2**
 100% esamo ekrano atimama 800px turinio ir padalinama iš 2, tam kad iš abiejų turinio pusių būtų vienodi tarpeliai. Keičiantis ekrano ar naršyklės dydžiui, turinys liks viduryje, tai galioja jei ekranas bus didesnis nei 800px.
 
 >CSS taisyklė, paveldimos gali būti tik teksto rašymo stiliaus savybės. Elemento plotis nėra teksto savybė, todėl nėra ji paveldima. Todėl negali būti naudojama viename tag'e, turi būti atskirai kiekvienam tagui nurodyta elemento plotis, dydis ir t.t.
 
+# Pain.net Naudojimas
+- Norint iškirpti nuotrauką su kuo mažesniu likusiu fonu (Logotipui buvo naudojama) :
+  1. Magin wanda -> Tolerance ;
+  2. Ctrl + i;
+  3. Ctrl +Shift + x;
