@@ -38,6 +38,10 @@ https://www.markdownguide.org/basic-syntax/
 
 # Pain.net Naudojimas
 - Norint iškirpti nuotrauką su kuo mažesniu likusiu fonu (Logotipui buvo naudojama) :
-  1. Magin wanda -> Tolerance ;
-  2. Ctrl + i;
-  3. Ctrl +Shift + x;
+
+<ol>
+  <li> Magic wanda -> Tolerance ;</li>
+  <li> Ctrl + i;</li>
+  <li> Ctrl +Shift + x;</li>
+  
+</ol>
